@@ -17,11 +17,3 @@ body
         height: 200px;
     }
 }
-/* 
-I used media screen and (max-width: 600px) to add changes to the css when the page
-is 600px or less. I made the font size smaller, the image size smaller, and the 
-background color to yellow.
-When greater than 600px, I made the background color lightblue and set the font
-size 50px.
-
-*/
